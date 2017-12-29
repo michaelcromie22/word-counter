@@ -6,11 +6,11 @@ Application to return a distinct list of words in a given sentence and the numbe
 * Maven 3+
 
 ## Usage Guide:
-* Open a terminal and navigate to the root folder
+* Open a terminal and navigate to the root folder   
 `cd <your-path>/word-counter`
 * Create an executable jar   
 `mvn clean package`
-* Excecute the jar
+* Excecute the jar   
 `java -jar target/wordcounter-0.0.1-SNAPSHOT.jar`
 
 ## Assumptions:
